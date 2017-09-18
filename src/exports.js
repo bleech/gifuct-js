@@ -1,7 +1,7 @@
 // export wrapper for exposing library
 
-var GIF = window.GIF || {};
+var GIFUCT = window.GIFUCT || {};
 
-GIF = require('./gif');
+GIFUCT = require('./gif');
 
-window.GIF = GIF;
+window.GIFUCT = GIFUCT;
